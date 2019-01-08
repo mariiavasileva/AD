@@ -1,0 +1,2 @@
+g=cos(x);
+t=log(x)+g;

@@ -1,0 +1,3 @@
+/home/mariia/Desktop/At2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mariia/Desktop/At2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mariia/Desktop/At2/cmake-build-debug/CMakeFiles/autodiff.dir
